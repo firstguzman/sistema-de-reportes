@@ -1,4 +1,4 @@
-# Deliveries Venezuela
+# Sistema de Reportes
 
 Este repositorio alberga los archivos fuente para el proyecto de Sistemas de Bases de Datos II, el cual consiste en realizar una simulación acerca de compañías de delivery en Venezuela, sus empresas aliadas o proveedores, clientes y más
 
